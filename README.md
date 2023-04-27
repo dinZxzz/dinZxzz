@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dinZxzz
+- An another average engineer student form India.
+- Using Github to steal codes.
