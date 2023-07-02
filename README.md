@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @dinZxzz
 - An another average tech student form India.
-- Using Github to steal codes.
+  
